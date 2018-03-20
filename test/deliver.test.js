@@ -19,7 +19,7 @@ describe('Deliver', function () {
 			})
 		})
 
-		server.listen(80, '127.0.0.1')
+		server.listen(3000, '127.0.0.1')
 		
 		after(function () {
 			server.close()
@@ -71,7 +71,7 @@ describe('Deliver', function () {
 					})
 		})
 		
-		it('should give you and option to do something if file was not found', function (done) {
+		it('should give you an option to do something if file was not found', function (done) {
 			request(server)
 					.get('/test.lol')
 					.expect('Content-Type', /plain/)
