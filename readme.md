@@ -11,7 +11,7 @@ possible (through the use of a `Promise`) to provide some other logic.
 
 ## Installation
 
-```javascript
+```
 $ npm install deliver-or-else
 ```
 
