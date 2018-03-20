@@ -1,6 +1,6 @@
 <p align="left">
-<a href="https://travis-ci.org/Tabaci/mimisbrunnr"><img src="https://travis-ci.org/Tabaci/mimisbrunnr.svg?branch=master"></a>
-<a href="https://codecov.io/gh/Tabaci/mimisbrunnr"><img src="https://codecov.io/gh/Tabaci/mimisbrunnr/branch/master/graph/badge.svg" /></a>
+<a href="https://travis-ci.org/Tabaci/deliver-or-else"><img src="https://travis-ci.org/Tabaci/deliver-or-else.svg?branch=master"></a>
+<a href="https://codecov.io/gh/Tabaci/deliver-or-else"><img src="https://codecov.io/gh/Tabaci/deliver-or-else/branch/master/graph/badge.svg" /></a>
 </p>
 
 # deliver-or-else
