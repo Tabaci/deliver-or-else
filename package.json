@@ -14,7 +14,27 @@
     "nyc": "^11.6.0",
     "supertest": "^3.0.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Tabaci/deliver-or-else.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Tabaci/deliver-or-else/issues"
+  },
+  "homepage": "https://github.com/Tabaci/deliver-or-else",
+  "keywords": [
+    "serve",
+    "deliver",
+    "document",
+    "file",
+    "or",
+    "else",
+    "http",
+    "request",
+    "response",
+    "server"
+  ],
   "dependencies": {
-    "mimisbrunnr": "^1.0.0"
+    "mimisbrunnr": "^1.0.1"
   }
 }

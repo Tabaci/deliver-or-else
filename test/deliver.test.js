@@ -12,7 +12,7 @@ let deliver = new Deliver(path.resolve(__dirname, 'fixtures/public'))
 describe('Deliver', function () {
 	describe('#deliver (req, res)', function () {
 		let server = http.createServer((req, res) => {
-			deliver.deliver(req, res).then(() => {}).catch(() => {
+			deliver.deliver(req, res).catch(() => {
 				res.statusCode = 404
 				res.setHeader('Content-Type', 'text/plain')
 				res.end(req.url)
